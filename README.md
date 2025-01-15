@@ -1,7 +1,9 @@
 # CASE: Busca Semântica + PGvector
 
-**Autor:** Gustavo das Neves Ubeda 
+**Autor:** Gustavo das Neves Ubeda
+
 **Contato:** [gustavo.n.ubeda@gmail.com.br](mailto:gustavo.n.ubeda@gmail.com.br)
+
 **Linkdin:** [LinkedIn](https://www.linkedin.com/in/gustavoubeda/)
 
 ### Instalação do Docker
