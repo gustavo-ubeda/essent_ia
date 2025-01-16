@@ -1,4 +1,4 @@
-# Guia de Implantação com Docker
+# API DE BUSCA: Guia de Implantação com Docker
 
 **Autor:** Gustavo das Neves Ubeda
 
@@ -38,6 +38,10 @@ docker exec -it busec_api ping pgvector
 ## Endpoints Disponíveis
 - [Documentação Interativa (Swagger UI)](http://localhost/docs)
 - [Documentação Alternativa (ReDoc)](http://localhost/redoc)
+
+![API](./imgs/busca_semantica.png)
+![API](./imgs/upsert.png)
+![API](./imgs/create_embeddings.png)
 
 ## Referências
 
