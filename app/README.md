@@ -1,5 +1,11 @@
 # Guia de Implantação com Docker
 
+**Autor:** Gustavo das Neves Ubeda
+
+**Contato:** [gustavo.n.ubeda@gmail.com.br](mailto:gustavo.n.ubeda@gmail.com.br)
+
+**Linkdin:** [LinkedIn](https://www.linkedin.com/in/gustavoubeda/)
+
 ## Referências
 
 - [Documentação Oficial do FastAPI sobre Docker](https://fastapi.tiangolo.com/deployment/docker/)
@@ -36,8 +42,3 @@ docker exec -it busec_api ping pgvector
 ## Endpoints Disponíveis
 - [Documentação Interativa (Swagger UI)](http://localhost/docs)
 - [Documentação Alternativa (ReDoc)](http://localhost/redoc)
-
----
-
-**Autor:** Gustavo Ubeda  
-**Contato:** [LinkedIn](https://www.linkedin.com/in/gustavoubeda/)
