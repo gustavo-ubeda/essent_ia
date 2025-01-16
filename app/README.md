@@ -6,10 +6,6 @@
 
 **Linkdin:** [LinkedIn](https://www.linkedin.com/in/gustavoubeda/)
 
-## Referências
-
-- [Documentação Oficial do FastAPI sobre Docker](https://fastapi.tiangolo.com/deployment/docker/)
-
 ## Comandos para Implantação
 
 ### Build da Imagem Docker
@@ -42,3 +38,7 @@ docker exec -it busec_api ping pgvector
 ## Endpoints Disponíveis
 - [Documentação Interativa (Swagger UI)](http://localhost/docs)
 - [Documentação Alternativa (ReDoc)](http://localhost/redoc)
+
+## Referências
+
+- [Documentação Oficial do FastAPI sobre Docker](https://fastapi.tiangolo.com/deployment/docker/)
